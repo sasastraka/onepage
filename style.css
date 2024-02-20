@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(139, 97, 163);
+    color: white;
+}
+#menu {
+    display: flex;
+    justify-content: flex-end;
+}
+ul {
+    list-style-type: none;
+  }
+  
+  ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+footer {
+    width: 40px;
+    display: flex;
+    position: fixed; bottom: 0px; right: 80px;
+    margin-right: 10px; 10px;
+}
+img {
+    margin: 5px;
+}
+#logo {
+    width: 10%;
+    margin-left: 0;
+    display: flex;
+}
+.btn1 {
+    width: 100px;
+    height: 30px;
+}
+#btn1 {
+    width: 100px;
+    height: 30px;
+}
+
